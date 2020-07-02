@@ -1,0 +1,15 @@
+img {
+	width: 30%;
+	float: left;
+	margin: 1.66%;
+}
+
+* {
+	font-family: 'Abril Fatface', cursive;
+}
+
+h1 {
+	border-bottom: 3px solid red;
+	width: 98.4%;
+	padding-bottom: 20px;
+}
